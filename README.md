@@ -53,3 +53,4 @@ broken down by different outlet types.
 Chart Type: Matrix Card.
 
 ## Result File:
+<a href="https://github.com/tannu0415/-Blinkit-Data-Analysis-using-SQL/blob/1c88dd3f286fb7e7658abebed874151f11827642/SQL%20PDF.pdf">Result file</a>

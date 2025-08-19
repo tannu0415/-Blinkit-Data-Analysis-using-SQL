@@ -25,7 +25,8 @@ Key highlights of the project include:
 3. Number of Items: The total count of different items sold.
 4. Average Rating: The average customer rating for items sold.
 
-## Questions (Chart's Requirements)
+GRANULAR REQUIREMENTS
+## Questions (Granular RequirementS)
 1. Total Sales by Fat Content:
 Objective: Analyze the impact of fat content on total sales.
 Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat contentChart Type: Donut Chart.
@@ -38,13 +39,15 @@ Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, A
 4. Total Sales by Outlet Establishment:
 Objective: Evaluate how the age or type of outlet establishment influences total sales.
 Chart Type: Line Chart.
-5. Sales by Outlet Size:
+
+## Questions (Chart's Requirements)
+1. Sales by Outlet Size:
 Objective: Analyze the correlation between outlet size and total sales.
 Chart Type: Donut/ Pie Chart.
-6. Sales by Outlet Location:
+2. Sales by Outlet Location:
 Objective: Assess the geographic distribution of sales across different locations.
 Chart Type: Funnel Мар.
-7. All Metrics by Outlet Type:
+3. All Metrics by Outlet Type:
 Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating)
 broken down by different outlet types.
 Chart Type: Matrix Card.

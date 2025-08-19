@@ -1,4 +1,5 @@
 # -Blinkit-Data-Analysis-using-SQL
+## Project Objective:
 As part of my data analytics practice, I worked on the Blinkit dataset to explore, clean, and analyze the data using Microsoft SQL.
 Key highlights of the project include:
 
@@ -13,3 +14,5 @@ Key highlights of the project include:
 🔎 Outcome – Derived actionable insights to help understand customer preferences and store-level performance, which can support business decisions in retail and FMCG sectors.
 
 👉 This project demonstrates my ability to clean, analyze, and extract insights from real-world retail data using SQL.
+
+## Dataset Used :👇

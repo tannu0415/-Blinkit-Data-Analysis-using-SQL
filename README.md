@@ -51,3 +51,5 @@ Chart Type: Funnel Мар.
 Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating)
 broken down by different outlet types.
 Chart Type: Matrix Card.
+
+## Result File:

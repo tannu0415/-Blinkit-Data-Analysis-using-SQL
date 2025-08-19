@@ -1,4 +1,4 @@
-# -Blinkit-Data-Analysis-using-SQL
+# Blinkit-Data-Analysis-using-SQL
 ## Project Objective:
 As part of my data analysis practice, I worked on the Blinkit dataset to explore, clean, and analyze the data using Microsoft SQL.
 Key highlights of the project include:
